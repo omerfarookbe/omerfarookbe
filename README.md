@@ -13,9 +13,7 @@
 </p>
 <hr />
 <samp>
-    Senior Software Engineer with more than 15 years of experience in solving business problems with technology
-    solutions. Experience across many IT disciplines including architecture, modernization, innovation, design and
-    development of cloud native applications, automation, maintenance & support, and management.
+Senior Software Engineer with 18+ years of experience designing and delivering high-performance, cloud-native applications using .NET Core, C#, microservices, serverless, and Azure.
 </samp>
 
 ## 🔥 Streak Stats
