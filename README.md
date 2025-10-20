@@ -9,7 +9,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Enginner;Cloud+Specialist;.NET+Developer;.NET+Architect&center=true&width=380&height=45&font=Fira+Code&pause=1000&color=F70000"></a>
+            src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Enginner;Principal Software Engineer;Senior .NET Engineer;Cloud And Enterprise Architect&center=true&width=380&height=45&font=Fira+Code&pause=1000&color=F70000"></a>
 </p>
 <hr />
 <samp>
