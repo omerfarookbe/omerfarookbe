@@ -13,7 +13,7 @@
 </p>
 <hr />
 <samp>
-Senior Software Engineer with 18+ years of experience designing and delivering high-performance, cloud-native applications using .NET Core, C#, microservices, serverless, and Azure.
+18+ years building and scaling cloud-native, AI-enabled platforms with .NET, Python, Azure, and Databricks. Skilled in developing intelligent AI pipelines and leveraging AI-assisted coding tools to accelerate development. Expert in microservices, CI/CD, and observability, delivering reliable and scalable systems.
 </samp>
 
 ## 🔥 Streak Stats
